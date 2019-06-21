@@ -1,6 +1,10 @@
-# The resume of Hisham Aljahbli in HTML.
+# The resume of Hisham Aljahbli.
 
 
 ## How to view
-download the files and open index or arabic in a browser
+Simply click on this link https://hamjahb.github.io/resume/ 
+
+## To view Code 
+click on git hub files or
+download the files and open index or arabic in any browser
 
